@@ -1,0 +1,34 @@
+Test Scenario Report - Load Document
+Tester:          Mária Aksamít
+Test Scenario:   Load Document
+Tested on:       10th April 2023
+Successful Test: Executed
+
+Test - Open and Load Document:
+
+In the uubookkit application, opening the required document: Test successful.
+Verification of sheets and attachments: Test successful.
+Verification of document, attachment, and sheet editing capabilities.
+   Bug found: Problem with the edit button - described in the report.
+Launching a presentation and checking the created section:
+   Bug found: Described in the report.
+
+Test - Responsiveness Check:
+
+Opening the document in different operating systems and web browsers (Windows 11 + Chrome and Firefox).
+Opening the document on various devices (iPhone 13 mini, iOS 16.4.1, Safari).
+Launching a presentation under the mentioned conditions in point:
+   Bug found: Described in the report.
+
+Test - Attempt to Disrupt the Process:
+
+Reloading the page before loading the document: Test successful.
+Navigating through the document content and then using the browser's "back" button: Test successful.
+Reloading the page in the middle of downloading attachments using the browser's icon: Test successful.
+
+Test conducted in the environment:
+  Dell Notebook, Windows 11 Home, Chrome, Firefox browsers
+  iPhone 13 mini, iOS 16.4.1, Safari browser
+
+Total test duration: 30 minutes.
+2 bugs found.
