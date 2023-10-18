@@ -1,0 +1,19 @@
+Bug - Load Document - Editing Buttons
+
+Title:     Lack of clarity in "Edit" buttons
+Severity:  3
+Tester:    Mária Aksamít
+Version:   uuDocKit 5.30.0
+Test case: Manage Sheet Content
+
+Steps:
+Edit the sheet.
+Edit within the section.
+Confirm the edits.
+Error: There is an excessive number of buttons required for editing, causing confusion during the editing process.
+The pencil icon button is only visible when hovering over the image, which is problematic, especially when editing on a mobile phone where tapping the image should allow editing of the entire section (image gallery), which is not intuitive.
+
+Fix:      Optimize the number of "Edit" buttons and always display the pencil icon button.
+Solver:
+Priority: 3
+Screenshots:
