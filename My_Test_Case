@@ -1,0 +1,42 @@
+Test case - Manage Sheet Content
+
+Description:
+
+Priority:       Must have
+Prerequisites:  Created sheet
+Access:         Executive
+Starting point: Open the uu bookkit application and modify the content on the created sheet.
+
+Test steps:
+General:
+
+Insert a new section and set its type.
+Expected result: Successfully inserted section of the specified type.
+Change section type.
+Expected result: Successfully changed the type.
+Rearrange section order.
+Expected result: Successful change in order.
+Delete a previously created section.
+Expected result: Successfully removed section.
+
+Specifically: Manage Image Gallery Section:
+
+Add photos of different quality and display (individually or multiple).
+Expected result: Successfully added photos.
+Delete photo(s) (individually or multiple).
+Expected result: Successfully deleted one or more photos.
+Sort items by date (from newest, from oldest).
+Expected result: Successful sorting of items.
+Change order.
+Expected result: Successful change in order.
+Change size.
+Expected result: Successful resizing of photos.
+Apply various effects to photos (zoom, blur, etc.).
+Expected result: Successful application of all available effects to photos.
+Caption.
+Expected result: Successful insertion and modification of photo captions.
+
+Expected results:      Successful modification of sheet content and organization.
+Notes:                 Verify functionality on other devices as well.
+Estimated time:        30 minutes
+Link to documentation: UU dockkit Documentation
